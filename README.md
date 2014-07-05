@@ -13,5 +13,5 @@ Load and run
 
 ```lua
 th
-> ms = require 'madfun'
+> MADfun = require 'madfun'
 ```
